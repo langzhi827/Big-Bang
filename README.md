@@ -8,11 +8,11 @@
 
 
 ##查看demo
-以此运行下面的命令：
+依次执行下面的命令：
 ```sh
 git clone https://github.com/langzhi827/Big-Bang.git
 cd Big-Bang
 npm install
 node app.js
 ```
-然后在浏览器访问：[http://127.0.0.1:3000](http://127.0.0.1:3000)即可查看效果
+然后在chrome浏览器访问[http://127.0.0.1:3000](http://127.0.0.1:3000)即可查看效果
