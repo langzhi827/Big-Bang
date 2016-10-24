@@ -1,0 +1,30 @@
+{
+  "name": "Big-Bang",
+  "version": "0.1.0",
+  "description": "使用JavaScript模仿 Smartisan OS 的 BigBang 功能",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langzhi827/Big-Bang.git"
+  },
+  "keywords": [
+    "Big Bang",
+    "Big-Bang",
+    "BigBang"
+  ],
+  "author": "harry.lang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langzhi827/Big-Bang/issues"
+  },
+  "homepage": "https://github.com/langzhi827/Big-Bang#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "segment": "^0.1.3"
+  }
+}
